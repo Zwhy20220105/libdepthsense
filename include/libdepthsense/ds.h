@@ -8,7 +8,7 @@
 extern "C" {
 #endif
 
-/* Each component is limited into [0-99] range by design */
+/* 根据设计，每个组件都限制在 [0-99] 范围内*/
 #define DS_API_MAJOR_VERSION    0
 #define DS_API_MINOR_VERSION    2
 #define DS_API_PATCH_VERSION    7
